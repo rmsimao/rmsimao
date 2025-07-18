@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rafael Marinho Simão
 
-<!--
-**rmsimao/rmsimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Dados & Business Intelligence
 
-Here are some ideas to get you started:
+Olá! Este é o meu espaço para desenvolver e compartilhar projetos de portfólio com foco em Análise de Dados, Business Intelligence e Engenharia de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha jornada é focada em transformar dados em insights e soluções de negócio. Estou constantemente aprimorando minhas habilidades nas seguintes tecnologias:
+
+- **Linguagens:** SQL, Python (Pandas, PySpark)
+- **Ferramentas de BI:** Power BI
+- **ETL:** SSIS, e processos com Python
+- **Cloud:** Microsoft Azure
+
+Atualmente estou trabalhando em projetos de análise exploratória de dados e pequenos pipelines de ETL, que serão publicados aqui em breve.
+
+**[🔗 Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/rafa-simao)**
