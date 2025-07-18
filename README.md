@@ -1,4 +1,4 @@
-# Rafael Marinho Simão
+# Rafael Simão
 
 ### Analista de Dados & Business Intelligence
 
